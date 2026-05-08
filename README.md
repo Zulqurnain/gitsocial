@@ -129,3 +129,9 @@ Special thanks to [Entypo](http://www.entypo.com/) for the icons and to [Imgur](
 
 ### License
 Do whatever you want with this.
+
+---
+
+**Built by [Zulqurnain Haider](https://zulqurnainj.com/) — Senior Full Stack Engineer**
+
+For full portfolio visit: https://zulqurnainj.com/
